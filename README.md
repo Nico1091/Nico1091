@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:nr039020@gmail.com"><img src="https://img.shields.io/badge/Correo-nr039020%40gmail.com-1f2a36?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
   <a href="https://postvental.com.co"><img src="https://img.shields.io/badge/Sitio-postvental.com.co-2c3743?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web"></a>
-  <a href="https://github.com/Nico1091/CERTIFICADOS"><img src="https://img.shields.io/badge/Certificaciones-10%20diplomas-3d4753?style=for-the-badge&logo=coursera&logoColor=white" alt="Certificaciones"></a>
+  <a href="https://github.com/Nico1091/certificados"><img src="https://img.shields.io/badge/Certificaciones-10%20diplomas-3d4753?style=for-the-badge&logo=coursera&logoColor=white" alt="Certificaciones"></a>
   <img src="https://img.shields.io/badge/Disponible-para%20contrataci%C3%B3n-2f6f4e?style=for-the-badge" alt="Disponible para contratación">
 </p>
 
@@ -124,7 +124,7 @@ Estudios previos al traslado · Veinte asignaturas convalidadas
 
 Diez diplomas en ciberseguridad, programación y control de versiones, emitidos por **TryHackMe**,
 **MinTIC**, **Platzi**, **SENA** y **Generación TIC**. Los documentos originales están publicados en
-**[Nico1091/CERTIFICADOS](https://github.com/Nico1091/CERTIFICADOS)**; el de programación básica del
+**[Nico1091/certificados](https://github.com/Nico1091/certificados)**; el de programación básica del
 MinTIC es verificable en blockchain.
 
 ---
