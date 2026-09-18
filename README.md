@@ -28,7 +28,7 @@ automatizada con un modelo de lenguaje, además del dominio, el alojamiento y la
 
 ## Proyectos
 
-### [agent-data-toolkit](https://github.com/Nico1091/Nico_dab) · Python
+### [agent-data-toolkit](https://github.com/Nico1091/agent-data-toolkit) · Python
 
 API de pago por llamada para agentes de IA. Cobra en **USDC sobre la red Base** mediante el protocolo
 **x402**: seis puntos de acceso tarifados, control de límites de gasto, manifiesto de descubrimiento,
@@ -41,7 +41,7 @@ pruebas automatizadas e integración continua.
   <img src="https://img.shields.io/badge/USDC%20%C2%B7%20Base-2775CA?style=flat-square">
 </p>
 
-### [ScannerLab](https://github.com/Nico1091/Scannerlab) · JavaScript
+### [ScannerLab](https://github.com/Nico1091/scannerlab) · JavaScript
 
 Escáner de red local de código abierto. Descubre dispositivos y puertos en la red, mide latencia y
 velocidad, y lo presenta todo en una interfaz web propia.
@@ -52,7 +52,7 @@ velocidad, y lo presenta todo en una interfaz web propia.
   <img src="https://img.shields.io/badge/Redes-3d4753?style=flat-square">
 </p>
 
-### [Tutor de Ingeniería](https://github.com/Nico1091/Desarollo--gemma4-Hackhaton) · JavaScript
+### [Tutor de Ingeniería](https://github.com/Nico1091/tutor-ingenieria-gemma) · JavaScript
 
 Tutor para estudiantes de Ingeniería de Sistemas apoyado en modelos de lenguaje **ejecutados en local**,
 con búsqueda de recursos y apoyo de accesibilidad. Presentado al **Gemma 4 Good Hackathon** de Kaggle y
@@ -64,7 +64,7 @@ Google DeepMind, categoría *Future of Education*.
   <img src="https://img.shields.io/badge/Hackathon-c46210?style=flat-square&logo=kaggle&logoColor=white">
 </p>
 
-### [Panel OpenClaw](https://github.com/Nico1091/Openclaw_Database) · Python
+### [Panel OpenClaw](https://github.com/Nico1091/openclaw-dashboard) · Python
 
 Extracción automática de conversaciones a una base **SQLite** y panel web que las visualiza en gráficos
 interactivos, con actualización periódica.
@@ -75,7 +75,7 @@ interactivos, con actualización periódica.
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white">
 </p>
 
-### [Prácticas de Cisco](https://github.com/Nico1091/Ejemplos_ciscoPackettarcer) · Redes
+### [Prácticas de Cisco](https://github.com/Nico1091/practicas-cisco-packet-tracer) · Redes
 
 Ocho topologías de red listas para abrir y estudiar en Packet Tracer: direccionamiento, VLAN, listas de
 control de acceso y NAT.
@@ -86,7 +86,7 @@ control de acceso y NAT.
   <img src="https://img.shields.io/badge/CCNA-3d4753?style=flat-square">
 </p>
 
-### [Banco Unisimón](https://github.com/Nico1091/Proyectos) · SQL
+### [Banco Unisimón](https://github.com/Nico1091/banco-unisimon-bd) · SQL
 
 Modelo conceptual, modelo lógico, script de creación e interfaz web de un sistema bancario académico.
 
